@@ -14,12 +14,12 @@ body {
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
 	font-size:15px;
-	font-family: 'Merriweather', serif;	
+	font-family: 'Merriweather', serif;
 }
 
 
 /*==========================================
-PRE LOADER 
+PRE LOADER
 ==========================================*/
 
 .preloader {
@@ -76,7 +76,7 @@ input[type="color"],
 .form-control {
 	border: 0px solid transparent;
 	font-size: 16px;
-	font-family: 'Merriweather', serif;	
+	font-family: 'Merriweather', serif;
 	height: 45px;
 	border-bottom:1px solid #ddd;
 	background-color: rgba(255, 255, 255, 0);
@@ -197,7 +197,7 @@ a:hover{
     padding-bottom: 80px;
     position: relative;
     overflow: hidden;
-	
+
 }
 .separetor{
 	background:url(../images/spr.png) no-repeat center center;
@@ -248,22 +248,22 @@ a:hover{
     padding-top: 0px;
     padding-bottom: 0px;
     position: fixed;
-    top: 0; 
-	left: 0; 
-	right: 0; 
+    top: 0;
+	left: 0;
+	right: 0;
 	z-index: 300;
     box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     background-color: #fff;
 	height:80px;
-	
+
 }
 .main_menu_bg{
 	margin-top:0px;
 }
 .main_menu_bg .navbar-default {
-    background-color: transparent; 
-    border-color: transparent; 
+    background-color: transparent;
+    border-color: transparent;
 	transition:.6s;
 }
 .container-fluid {
@@ -342,12 +342,12 @@ a:hover{
 
 .main_special{
     padding-bottom: 100px;
-    overflow: hidden;	
+    overflow: hidden;
 }
 
 .single_special{
 	padding:0;
-	
+
 }
 .single_special_img{
 	position:relative;
@@ -423,7 +423,7 @@ a:hover{
 	border:1px solid #b1b1b1;
 	color:#000;
 	padding:5px 10px;
-	display:block;	
+	display:block;
 }
 
 .single_menus{
@@ -445,7 +445,7 @@ a:hover{
 /* Contact Section */
 
 .main_contact_content{
-	
+
 }
 .single_contact{
     margin-bottom: 80px;
@@ -467,7 +467,7 @@ a:hover{
 	margin-bottom:20px;
 }
 .form_btn_area{
-	
+
 }
 
 
@@ -513,7 +513,7 @@ a:hover{
 .single_footer .footer_socail a:hover{
 	color:#3c3c3c;
 	border-color:#3c3c3c;
-	
+
 }
 
 

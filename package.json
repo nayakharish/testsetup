@@ -1,7 +1,7 @@
 {
   "name": "jushabhi",
   "version": "1.0.0",
-  "description": "wedding project",
+  "description": "sinfulslices project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
